@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+
+body{
+    width: 75rem;
+    margin: 0 auto;
+    font-family: Verdana, Helvetica,sans-serif;
+    font-size: 1.6rem;
+}
+
+a{
+    display: block;
+    width: 15rem;
+    margin: 1rem auto;
+    padding: 1rem;
+}
+h1,h2,p{
+    text-align: center;
+}
+
+img{
+    margin: 1.6rem auto;
+    display: block;
+}
+
+ul li{
+    width: 50%;
+    margin: 1rem auto;
+}

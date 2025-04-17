@@ -35,6 +35,7 @@ a{
     background-color: #5E2A58;
     color: #F1EFEC;
     border-radius: 8px;
+    text-decoration: none;
     /* box shadow */
     box-shadow:
   rgba(94, 42, 88, 0.25) 0px 54px 55px,
